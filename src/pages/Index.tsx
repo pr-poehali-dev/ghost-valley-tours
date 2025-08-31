@@ -496,7 +496,7 @@ const Index = () => {
               <ul className="space-y-2 text-earth-300">
                 <li>Трансфер</li>
                 <li>Размещение</li>
-                <li>Питание</li>
+                <li></li>
                 <li>Фотосъемка</li>
               </ul>
             </div>
