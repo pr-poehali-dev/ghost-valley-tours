@@ -487,7 +487,7 @@ const Index = () => {
               <ul className="space-y-2 text-earth-300">
                 <li>Классический тур</li>
                 <li>Экстрим-сафари</li>
-                <li>VIP-экспедиция</li>
+                <li></li>
                 <li>Групповые туры</li>
               </ul>
             </div>
