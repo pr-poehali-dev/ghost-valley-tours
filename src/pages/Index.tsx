@@ -104,7 +104,7 @@ const Index = () => {
                   </div>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-2xl font-bold text-earth-800">от 2500₽</span>
+                  <span className="text-2xl font-bold text-earth-800">от 4000₽</span>
                   <Button className="bg-earth-500 hover:bg-earth-600">Забронировать</Button>
                 </div>
               </CardContent>
