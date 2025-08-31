@@ -98,10 +98,8 @@ const Index = () => {
                     <Icon name="CheckCircle" size={16} className="mr-2 text-forest-500" />
                     Фотостопы в красивых местах
                   </div>
-                  <div className="flex items-center text-sm text-earth-600">
-                    <Icon name="CheckCircle" size={16} className="mr-2 text-forest-500" />
-                    Легкий треккинг
-                  </div>
+                  <div className="flex items-center text-sm text-earth-600">Разбитое сердце
+</div>
                 </div>
                 <div className="flex items-center justify-between">
                   <span className="text-2xl font-bold text-earth-800">от 4000₽</span>
