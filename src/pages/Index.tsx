@@ -428,9 +428,9 @@ const Index = () => {
                 <div className="flex items-start">
                   <Icon name="MapPin" className="mr-4 text-earth-500 mt-1" size={20} />
                   <div>
-                    <p className="font-semibold">Офис продаж</p>
-                    <p className="text-earth-600">ул. Горная, 15, офис 23</p>
-                    <p className="text-earth-600 text-sm">Пн-Вс: 9:00-18:00</p>
+                    <p className="font-semibold"></p>
+                    <p className="text-earth-600"></p>
+                    <p className="text-earth-600 text-sm"></p>
                   </div>
                 </div>
               </CardContent>
@@ -495,7 +495,7 @@ const Index = () => {
               <h4 className="font-semibold mb-4">Услуги</h4>
               <ul className="space-y-2 text-earth-300">
                 <li>Трансфер</li>
-                <li>Размещение</li>
+                <li></li>
                 <li></li>
                 <li>Фотосъемка</li>
               </ul>
