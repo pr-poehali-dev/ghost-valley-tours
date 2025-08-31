@@ -80,7 +80,7 @@ const Index = () => {
                   <Badge className="bg-forest-500">Популярный</Badge>
                   <div className="flex items-center text-earth-600">
                     <Icon name="Clock" size={16} className="mr-1" />
-                    <span className="text-sm">4 часа</span>
+                    <span className="text-sm">1 часа</span>
                   </div>
                 </div>
                 <CardTitle className="text-xl">Классический тур</CardTitle>
@@ -98,8 +98,7 @@ const Index = () => {
                     <Icon name="CheckCircle" size={16} className="mr-2 text-forest-500" />
                     Фотостопы в красивых местах
                   </div>
-                  <div className="flex items-center text-sm text-earth-600">Разбитое сердце
-</div>
+                  <div className="flex items-center text-sm text-earth-600 mx-[25px]">       Разбитое сердце</div>
                 </div>
                 <div className="flex items-center justify-between">
                   <span className="text-2xl font-bold text-earth-800">от 4000₽</span>
@@ -115,31 +114,22 @@ const Index = () => {
                   <Badge className="bg-sky-500">Экстрим</Badge>
                   <div className="flex items-center text-earth-600">
                     <Icon name="Clock" size={16} className="mr-1" />
-                    <span className="text-sm">6 часов</span>
+                    <span className="text-sm">от 1.5 часов</span>
                   </div>
                 </div>
-                <CardTitle className="text-xl">Экстрим-сафари</CardTitle>
+                <CardTitle className="text-xl">Смотровые площадки </CardTitle>
                 <CardDescription>
                   Для любителей острых ощущений - самые сложные маршруты
                 </CardDescription>
               </CardHeader>
               <CardContent>
                 <div className="space-y-2 mb-4">
-                  <div className="flex items-center text-sm text-earth-600">
-                    <Icon name="CheckCircle" size={16} className="mr-2 text-forest-500" />
-                    Экстремальные маршруты
-                  </div>
-                  <div className="flex items-center text-sm text-earth-600">
-                    <Icon name="CheckCircle" size={16} className="mr-2 text-forest-500" />
-                    Скалолазание
-                  </div>
-                  <div className="flex items-center text-sm text-earth-600">
-                    <Icon name="CheckCircle" size={16} className="mr-2 text-forest-500" />
-                    Обед на природе
-                  </div>
+                  <div className="flex items-center text-sm text-earth-600"></div>
+                  <div className="flex items-center text-sm text-earth-600 mx-[25px]">Долина привидений </div>
+                  <div className="flex items-center text-sm text-earth-600 mx-[25px]">Буковый лес</div>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-2xl font-bold text-earth-800">от 4500₽</span>
+                  <span className="text-2xl font-bold text-earth-800">от 5500₽</span>
                   <Button className="bg-earth-500 hover:bg-earth-600">Забронировать</Button>
                 </div>
               </CardContent>
@@ -152,10 +142,10 @@ const Index = () => {
                   <Badge className="bg-earth-500">VIP</Badge>
                   <div className="flex items-center text-earth-600">
                     <Icon name="Clock" size={16} className="mr-1" />
-                    <span className="text-sm">8 часов</span>
+                    <span className="text-sm">4 часов</span>
                   </div>
                 </div>
-                <CardTitle className="text-xl">VIP-экспедиция</CardTitle>
+                <CardTitle className="text-xl">VIP-Тур на Вершину</CardTitle>
                 <CardDescription>
                   Премиальный тур с максимальным комфортом и сервисом
                 </CardDescription>
@@ -170,13 +160,10 @@ const Index = () => {
                     <Icon name="CheckCircle" size={16} className="mr-2 text-forest-500" />
                     Премиум автомобили
                   </div>
-                  <div className="flex items-center text-sm text-earth-600">
-                    <Icon name="CheckCircle" size={16} className="mr-2 text-forest-500" />
-                    Ресторанный обед
-                  </div>
+                  <div className="flex items-center text-sm text-earth-600 mx-[25px]">Вершина горы Демерджи</div>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-2xl font-bold text-earth-800">от 8500₽</span>
+                  <span className="text-2xl font-bold text-earth-800">от 15500₽</span>
                   <Button className="bg-earth-500 hover:bg-earth-600">Забронировать</Button>
                 </div>
               </CardContent>
