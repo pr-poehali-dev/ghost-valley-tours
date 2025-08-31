@@ -218,7 +218,7 @@ const Index = () => {
                 <div className="flex items-start">
                   <Icon name="Clock" className="mr-3 mt-1 text-forest-500" size={16} />
                   <div>
-                    <h4 className="font-semibold">Гостиница "Горы"</h4>
+                    <h4 className="font-semibold">Лучистое(Центр)</h4>
                     <p className="text-earth-600">Ежедневно в 08:30, 12:30, 16:30</p>
                   </div>
                 </div>
