@@ -486,7 +486,7 @@ const Index = () => {
               <h4 className="font-semibold mb-4">Туры</h4>
               <ul className="space-y-2 text-earth-300">
                 <li>Классический тур</li>
-                <li>Экстрим-сафари</li>
+                <li></li>
                 <li></li>
                 <li>Групповые туры</li>
               </ul>
