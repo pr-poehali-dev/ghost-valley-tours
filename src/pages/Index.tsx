@@ -38,7 +38,7 @@ const Index = () => {
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{ backgroundImage: 'url(/img/49eba0c3-339e-4f36-9955-345bb6b2b6d5.jpg)' }}
         >
-          <div className="absolute inset-0 bg-black/40"></div>
+          <div className="absolute inset-0 bg-[#1b89a6]"></div>
         </div>
         <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-4 animate-fade-in">
           <h1 className="text-6xl md:text-8xl font-heading font-bold mb-6">
@@ -52,10 +52,7 @@ const Index = () => {
               <Icon name="MapPin" size={20} className="mr-2" />
               Выбрать тур
             </Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-earth-800 px-8 py-4 text-lg">
-              <Icon name="Play" size={20} className="mr-2" />
-              Смотреть видео
-            </Button>
+            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-earth-800 px-8 py-4 text-lg"></Button>
           </div>
         </div>
       </section>
